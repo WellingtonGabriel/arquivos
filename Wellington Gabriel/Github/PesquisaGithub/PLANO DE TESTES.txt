@@ -1,0 +1,8 @@
+Um plano de teste é um documento que descreve os planos de um projeto para testar um determinado software.
+
+Este documento normalmente inclui informações como cronograma do projeto, estratégia, metas, prazos e estimativas sobre os resultados dos testes ou possíveis desafios.
+
+Os planos de teste também podem ajudar a priorizar os objetivos do próprio software, não apenas o processo de teste. Isso ajuda a especificar quais práticas e estratégias os profissionais usam durante a fase de teste.
+
+Por exemplo, se uma prioridade do software é um recurso que salva arquivos automaticamente, um objetivo principal do plano de teste pode ser garantir que esse recurso funcione corretamente testando diferentes tipos de arquivo.
+

@@ -1,0 +1,17 @@
+   Existem 4 tipos de niveis de testes,dentre eles podemoscitar :
+
+Testes Unitários/de Componente
+
+A menor parte do sistema de software é frequentemente referido como unidade. Assim, este nível de teste é voltado para o exame de cada singular unidade do sistema de software para garantir que se conforma com os requisitos originais e funções, como esperado. Testes unitários geralmente são desempenhados cedo no processo de desenvolvimento pelos engenheiros, e não pelo time de testes. 
+
+Testes de Integração
+
+O objetivo do próximo nível de teste é verificar se as unidades combinadas trabalham bem como um grupo. Testes de integração visam detectar as falhas na interação entre as unidades dentro dos módulos. Existem 2 abordagens principais para este teste: Métodos de baixo para cima e de cima para baixo. O Teste de integração de baixo pra cima começa com unidades de teste, sucessivamente aumentado a complexidade dos módulos do software sob teste. O método de cima pra baixo usa a abordagem oposta, focando em combinações de alto nível primeiro e examinando as mais simples mais tarde.  
+
+Teste de Sistema
+
+Neste nível, um sistema de software completo é testado como um todo. Este estágio serve para verificar a conformidade do produto com os requisitos funcionais e técnicos e padrões de qualidade globais. Testes de sistema devem ser desempenhados por profissional altamente qualificado do time de testes, em um ambiente fechado ao negócio usando cenários quando possível.  
+
+Teste Aceite do Usuário
+
+Este é p último estágio do processo de testes, onde o produto é validado em relação aos requisitos do usuário final e para precisão. Este passo final ajuda o time a decidir se o produto está pronto para ser lançado ou não. Enquanto pequenos problemas devem ser detectados e resolvidos cedo no processo, este nível de teste foca na qualidade geral do sistema, de conteúdo e UI para problemas de desempenho. O estágio de aceite deve ser seguido por testes alpha e betha, permitindo que um pequeno grupo de usuários experimente o software antes que o mesmo seja oficialmente lançado. 

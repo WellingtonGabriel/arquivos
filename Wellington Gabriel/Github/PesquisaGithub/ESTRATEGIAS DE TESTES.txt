@@ -1,0 +1,9 @@
+Uma estratégia para a parte de teste de um projeto descreve a abordagem geral e os objetivos das tarefas de teste. Inclui estes estágios de teste (unidade, integração e sistema) a serem abordados e os tipos de teste (função, desempenho, carga, estresse) a serem executados.
+
+A estratégia define:
+
+As técnicas de teste e as ferramentas a serem utilizadas.
+Quais critérios de conclusão e êxito de teste serão utilizados. Por exemplo, os critérios podem permitir que o software avance para o teste de aceitação quando 95% dos casos de teste tiverem sido executados com êxito. Outro critério consiste na cobertura de código. Em um sistema no qual a segurança seja vital, esse critério pode significar que 100% do código devem ser cobertos por testes.
+Algumas considerações especiais afetam os requisitos de recurso ou têm implicações na programação, como:
+testar todas as interfaces em sistemas externos
+simular dano físico ou ameaça à segurança

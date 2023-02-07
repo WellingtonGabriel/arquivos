@@ -1,0 +1,79 @@
+Utilizar uma metodologia de testes de software durante o desenvolvimento de uma aplicação é fundamental para garantir seu bom funcionamento. Isso porque estes testes ajudam a detectar erros nos programas antes que ele chegue aos clientes ou ao mercado. 
+
+A metodologia de testes de software evita transtornos tanto para a empresa desenvolvedora, como para os clientes. Alguns são:
+
+Atrasos em entregas
+Manutenções em excesso
+Problemas de implantação
+Erros de programa
+Problemas de performance
+Necessidade frequente de manutenções
+Paralisação de procedimentos que dependem do novo sistema.
+Uma metodologia de testes de software bem estruturada verifica se as funcionalidades operam conforme o esperado durante o desenvolvimento. 
+
+Geralmente são realizados testes quando os desenvolvedores utilizam metodologias ágeis em suas práticas diárias. Elas permitem que as tarefas sejam feitas por etapas, o que torna mais fácil a realização de testes ao fim de cada etapa. 
+
+ 
+
+Principais pontos para observar na metodologia de testes de software
+É comum que os testes de software sejam automatizados. Isto otimiza o tempo dos desenvolvedores, pois muitas vezes essa atividade precisa ser repetida até que a aplicação não apresente mais erros. 
+
+Nas etapas de teste existem alguns quesitos principais que precisam ser observados para o bom desempenho do produto:
+
+Funcionalidade
+Confiabilidade
+Usabilidade
+Eficiência
+Manutenibilidade
+Portabilidade.
+Observar estes itens é o que garante a qualidade da entrega e a satisfação do cliente com seu produto. 
+
+ 
+
+5 tipos de metodologia de testes de software
+Para alcançar o objetivo de desenvolver um sistema eficiente, algumas técnicas de testes podem ser aplicadas. Elas podem variar quanto ao objetivo da avaliação, pois algumas se voltam para os requisitos internos e outras para os externos. 
+
+O que todos os tipos de metodologia de testes de software possuem em comum é oferecer segurança e produtividade na utilização do sistema. Essas características devem continuar mesmo que o sistema passe por situações extremas, como grande tráfego de dados ou sobrecarga de usuários. 
+
+ 
+
+Caixa Branca
+
+A metodologia da Caixa Branca é um teste estrutural que submete o código-fonte do programa à análise. Esse método analisa o fluxo de dados, os componentes do sistema e a segurança para avaliar também os componentes. 
+
+ 
+
+Caixa Preta
+
+A técnica da Caixa Preta é um teste funcional que avalia as funcionalidades e sua operacionalização. Essa metodologia de teste de software é chamada caixa preta por não ter contato com o código-fonte. O contato é feito apenas com as respostas que o sistema dá a determinadas ações. 
+
+ 
+
+Caixa Cinza
+
+Esse tipo de teste une as técnicas da Caixa Branca e da Caixa Preta. Sendo assim, a estrutura do código-fonte e  as funcionalidades do sistema são submetidas a avaliações. 
+
+A Caixa Cinza também é chamada de engenharia reversa, pois é utilizada para compreender o que causou erros e falhas no sistema. Isso possibilita que sejam posteriormente solucionados. 
+
+ 
+
+Regressão
+
+A metodologia da regressão testa todas as versões ou protótipos de um sistema. Ela é aplicada cada vez que uma funcionalidade sofre mudanças ou quando são incluídas novas funções. A finalidade desse tipo de teste é evitar a repetição de erros das versões anteriores.
+
+ 
+
+Testes não funcionais
+
+Os testes não-funcionais estão ligados à avaliação de quesitos que não se relacionam diretamente com as funções e respostas do sistema. Na verdade, eles analisam a usabilidade, velocidade, segurança e outros aspectos que não dependem das ações executadas pelo sistema.
+
+Para tornar todas essas atividades possíveis, existem algumas ferramentas de teste de software consolidadas pelo mercado. Cada uma delas é mais adequada para determinada linguagem de programação ou para um tipo de plataforma. 
+
+A Monitora possui uma equipe de automação de testes chamada de Quality Assurance. Ela é composta por profissionais qualificados que se dedicam às melhores entregas para nossos clientes, a fim de auxiliá-los a diminuir seus custos.  
+
+Nós utilizamos técnicas e ferramentas consolidadas pelo mercado para impulsionar  empresas de diferentes segmentos de atuação:
+
+Finanças
+Saúde
+Aviação 
+Inteligência artificial.

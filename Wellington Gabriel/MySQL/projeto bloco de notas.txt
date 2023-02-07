@@ -1,0 +1,49 @@
+use projeto;
+
+insert into cliente (nome,email,telefone1,telefone2) values ("jose afranio" , 31257139 , 991236838);
+
+insert into cliente (nome,email,telefone1,telefone2) values ("pedro" , 31252848 , 991234567);
+
+insert into cliente (nome,email,telefone1,telefone2) values ("maria" , 31255838 , 991370573);
+
+select * from cliente;
+
+insert into servico (nome,preco descricao) values ("diaria" , 2 , "sem descrição");
+
+insert into servico (nome,preco descricao) values ("semanal" , 14 , "sem descrição");
+
+insert into servico (nome,preco descricao) values ("mensal" , 60 , "sem descrição");
+
+select * from servico;
+
+insert into vaga (numero) values (01);
+
+insert into vaga (numero) values (02);
+
+insert into vaga (numero) values (03);
+
+select * from vaga;
+
+insert into veiculo (placa,nome,cor) values (1234567 , "corsa" , "preto");
+
+insert into veiculo (placa,nome,cor) values (8910111 , "gol" , "branco");
+
+insert into veiculo (placa,nome,cor) values (2131415 , "fusca" , "vermelho");
+
+select * from veiculo;
+
+insert into aluguel (livre) values ("nao");
+
+insert into aluguel (livre) values ("nao");
+
+insert into aluguel (livre) values ("nao");
+
+select * from aluguel;
+
+insert into venda (dataInicial,dataSaida, valorTotal) values (2022/08/09 , "nd" , 2);
+
+insert into venda (dataInicial,dataSaida, valorTotal) values (2022/08/09 , "nd" , 14);
+
+insert into venda (dataInicial,dataSaida, valorTotal) values (2022/08/09 , "nd" , 60);
+
+select * from venda;
