@@ -1,0 +1,50 @@
+   Existem diversas ferramentas de testes,dentre as mais usadas podemos citar :
+
+Selenium
+
+No momento, Selenium é a ferramenta mais popular e usada do mercado. Esta ferramenta open source é usada principalmente para aplicações web. A estrutura de testes do Selenium atua em vários browsers e plataformas como Linux, Mac, Windows, Firefox, Chrome, Internet Explorer, assim como em Headless Browsers. O Selenium IDE, um add-on de navegador, permite gravar e reproduzir, o que significa que o testador pode usar estas funcionalidades até mesmo se estiver aprendendo a usar o Selenium IDE. O Selenium WebDriver ajuda a criar scripts de automação de testes mais complexos e avançados. Além disso, os testadores podem escrever em várias linguagens de programação como Java, Perl, JavaScript, PHP, Python, C#, Ruby e Groovy.
+
+TestComplete
+
+Desenvolvido pela SmartBear Software, o TestComplete é uma plataforma comercial que pode automatizar testes do desktop, celular e aplicações web. Permite também a utilização de diversas linguagens, como JavaScript, VBScript e Python, além também de ter as funções de teste orientado por dados (DDT), teste por palavras-chaves, teste de regressão e teste distribuído.
+
+O TestComplete possibilita a criação de testes automatizados para aplicativos iOS, Web Microsoft Windows e Android. A ferramenta comporta as seguintes funções:
+
+Testes de GUI
+Suporta JavaScript, Python, VBScript, JScript, DelphiScript, C++Script e C#Script
+Visualizador de testes
+Testes com scripts
+Gravação e reprodução de testes
+
+Telerik Test Studio
+
+Telerik Test Studio é uma ferramenta de automação abrangente. O TestStudio pode ser usado manualmente e também oferece teste funcional de UI, teste de performance, teste exploratório, teste mobile, teste de carregamento e teste no Visual Studio. São compatíveis no Test Studio aplicativos de automação como Angular, ASP.NET, HTML5, JavaScript, AJAX, WPF, Silverlight, MVC, Ruby e iOS, PHP e Android. Também suporta linguagens de script como VB.Net e C#.
+
+Algumas outras funções principais de Telerik Test Studio são:
+
+Gravar e reproduzir
+Integração com Visual Basic Studio 2010 e 2012
+Testes cross-browser
+Integração com ferramentas de depuração
+Testes manuais
+
+Robotium
+
+Este framework é popular para a automação de testes para Android. Benefícios do Robotium:
+
+Compatível com aplicações nativas e híbridas.
+Facilita a escrita da automação de testes de caixa preta.
+Boa compatibilidade com Gradle, Ant e Maven
+API simples, todos os outros métodos estão disponíveis em solo class
+Delays e timings automáticos
+Não é necessário escrever códigos ao navegar de uma atividade para outra
+Os casos de teste são robustos, já que o tempo de processamento está vinculado aos componentes da UI.
+
+Watir
+
+Watir é o aplicativo de testes no Ruby, uma ferramenta open source muitíssimo leve, usada especialmente para testes de aplicações web. Gigantes da tecnologia como Oracle, SAP e Facebook a usam. Ela oferece as seguintes funções:
+
+Testa qualquer navegador e aplicação web, independente da linguagem.
+Testes cross-browser
+Compatível com outras ferramentas como Cucumber, RSpec e Test/Unit
+Testa os botões, links, forms e tempo de resposta de páginas web.

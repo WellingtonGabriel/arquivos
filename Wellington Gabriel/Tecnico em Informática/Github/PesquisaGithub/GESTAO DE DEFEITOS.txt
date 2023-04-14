@@ -1,0 +1,11 @@
+Os defeitos são basicamente considerados destrutivos em todas as etapas de desenvolvimento de software. Quaisquer coisas inesperadas que ocorram nos estágios do software são defeituosas naquele software específico. Estabelecer um processo de gerenciamento de defeitos é a melhor e mais atrativa forma de aumentar e melhorar a qualidade do software. Não existe tal software que esteja presente sem qualquer defeito.
+
+Os defeitos estão presentes em toda a vida do software porque o software é desenvolvido por humanos e “errar é humano”, ou seja, é natural que os seres humanos cometam erros. O número de defeitos pode ser reduzido resolvendo ou consertando, mas é impossível tornar um software livre de erros ou defeitos. O Processo de Gerenciamento de Defeitos (DMP) , como o nome sugere, é um processo de gerenciamento de defeitos simplesmente identificando e resolvendo ou consertando defeitos. Se o processo de gerenciamento de defeitos for feito de maneira mais eficiente e com foco total, menos softwares com bugs estarão disponíveis no mercado.
+
+Processo de gerenciamento de metas de defeitos (DMP):
+
+Previna o defeito
+Detecção em estágio inicial
+Reduza o impacto ou os efeitos do defeito no software
+Resolvendo ou corrigindo defeitos
+Melhorar o processo e o desempenho do software
